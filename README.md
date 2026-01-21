@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm learning GitHub and coding.
 
 <!--
 **Jiaxin-Li-code/Jiaxin-Li-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
